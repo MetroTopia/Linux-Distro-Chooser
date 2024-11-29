@@ -1,4 +1,4 @@
-> **Important**: Although Google Drive may flag the `.exe` file as potentially infected, **the file is completely safe**. The source code is available on GitHub, and you can verify it there.
+> **Important**: Sites may flag as malicious however all the code is viewable!
 
 
 Hello!
