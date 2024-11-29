@@ -12,7 +12,7 @@ def play_music():
     global is_muted
     if not is_muted:
         try:
-            pygame.mixer.music.load("retro_music.mp3")  # Ensure you have an MP3 file named retro_music.mp3
+            pygame.mixer.music.load("retro_musiclinuxdistrochooser.mp3")  
             pygame.mixer.music.play(-1, 0.0)  # Loop the music indefinitely
         except pygame.error as e:
             print("Error playing music:", e)
