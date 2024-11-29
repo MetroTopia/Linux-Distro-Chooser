@@ -12,7 +12,7 @@ def play_music():
     global is_muted
     if not is_muted:
         try:
-            pygame.mixer.music.load("retro_musiclinuxdistrochooser.mp3")  
+            pygame.mixer.music.load("retro_musiclinuxdistrochooser.mp3")  # Ensure you have an MP3 file named retro_music.mp3
             pygame.mixer.music.play(-1, 0.0)  # Loop the music indefinitely
         except pygame.error as e:
             print("Error playing music:", e)
@@ -128,7 +128,7 @@ def create_pixel_gradient():
 
 # Setup main window
 root = tk.Tk()
-root.title("Linux Distro Encyclopedia")
+root.title("Linux Distro Chooser")
 root.geometry("600x600")
 root.config(bg="#000000")
 
@@ -165,7 +165,7 @@ def show_credits():
 
     credits_content = """
     Developed by: MetroTM (https://github.com/MetroTopia)
-    Music by: [Artist Name]
+    Music by: XtremeFreddy (https://pixabay.com/users/xtremefreddy-32332307/)
 
     Copy and paste the links into your web browser!
     """
