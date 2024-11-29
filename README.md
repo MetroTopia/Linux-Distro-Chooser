@@ -13,5 +13,3 @@ GitHub: https://github.com/MetroTopia
 Steam: https://steamcommunity.com/id/topiared/
 
 Bye!
-
-
