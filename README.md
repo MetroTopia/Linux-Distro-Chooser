@@ -9,7 +9,7 @@ It ranges from Gaming all the way to Servers!
 
 Please contribute to this little application. I am not and never will make money from this.
 
-This is just a heads up so check out the installation.md!
+>This is just a heads up so check out the installation.md for the install and install guide!
 
 --MetroTopia 
 
